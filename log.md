@@ -1,12 +1,13 @@
 # 100 Days Of Code - Log
 
-### Day 0: July 12, 2016 
+### Day 1: July 12, 2016 
 
-**Today's Progress**: Codecademy Ruby course
+**Today's Progress**: Codecademy Ruby course, Learn to Program Ch5
 
-**Thoughts:** Today is the official start of my #100daysofcode challenge although I've been coding at least an hour most days for weeks. I couldn't have picked a worse day to start - I've had about 4 hours broken sleep thanks to one of the tiny humans, and if that wasn't bad enough, I'm working on the Ruby course in Codecademy and gave up last night as I hit a roadblock. I am not in the mood to tackle it today! 
+**Thoughts:** See my blog post: http://lauracodes.hickling.is/2016/07/12/100daysofcode-day-1/
 
-**Link to work:** [Codecademy Badge Page](https://www.codecademy.com/users/CraftyHickling/achievements)
+**Link to work:** [Codecademy Badge Page](https://www.codecademy.com/users/CraftyHickling/achievements) [Github Repo: NameLength Program](https://github.com/laulaulazza/Ruby-Practice/blob/master/NameLength.rb}
+
 
 <!---
 ### Day 1: June 27, Monday
