@@ -6,7 +6,7 @@
 
 **Thoughts:** See my blog post: http://lauracodes.hickling.is/2016/07/12/100daysofcode-day-1/
 
-**Link to work:** [Codecademy Badge Page](https://www.codecademy.com/users/CraftyHickling/achievements) [Github Repo: NameLength Program](https://github.com/laulaulazza/Ruby-Practice/blob/master/NameLength.rb}
+**Link to work:** [Codecademy Badge Page](https://www.codecademy.com/users/CraftyHickling/achievements) [Github Repo: NameLength Program](https://github.com/laulaulazza/Ruby-Practice/blob/master/NameLength.rb)
 
 
 <!---
