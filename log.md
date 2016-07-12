@@ -2,7 +2,7 @@
 
 ### Day 0: July 12, 2016 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Codecademy Ruby course
 
 **Thoughts:** Today is the official start of my #100daysofcode challenge although I've been coding at least an hour most days for weeks. I couldn't have picked a worse day to start - I've had about 4 hours broken sleep thanks to one of the tiny humans, and if that wasn't bad enough, I'm working on the Ruby course in Codecademy and gave up last night as I hit a roadblock. I am not in the mood to tackle it today! 
 
