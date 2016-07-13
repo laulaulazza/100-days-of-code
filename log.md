@@ -8,6 +8,13 @@
 
 **Link to work:** [Codecademy Badge Page](https://www.codecademy.com/users/CraftyHickling/achievements) [Github Repo: NameLength Program](https://github.com/laulaulazza/Ruby-Practice/blob/master/NameLength.rb)
 
+### Day 2: July 13, 2016 
+
+**Today's Progress**: Codecademy Ruby course Units 9 and 10. 
+
+**Thoughts:** See my blog post: http://lauracodes.hickling.is/2016/07/13/100daysofcode-day-2/
+
+**Link to work:** [Codecademy Badge Page](https://www.codecademy.com/users/CraftyHickling/achievements) 
 
 <!---
 ### Day 1: June 27, Monday
