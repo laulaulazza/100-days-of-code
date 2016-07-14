@@ -16,14 +16,17 @@
 
 **Link to work:** [Codecademy Badge Page](https://www.codecademy.com/users/CraftyHickling/achievements) 
 
-<!---
-### Day 1: June 27, Monday
-##### (delete me or comment me out)
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+### Day 3: July 14, 2016
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Today's Progress**: Lots of exercises in Chris Pine's Learning to Program Tutorial. 
+
+
+**Thoughts** See my blog post: http://lauracodes.hickling.is/2016/07/13/100daysofcode-day-3/
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
--->
+[Github Repo: 99 Bottles](https://github.com/laulaulazza/Ruby-Practice/blob/master/99_bottles.rb)
+[Github Repo: Angry Boss](https://github.com/laulaulazza/Ruby-Practice/blob/master/angry_boss.rb)
+[Github Repo: Deaf Grandma](https://github.com/laulaulazza/Ruby-Practice/blob/master/deaf_grandma.rb)
+[Github Repo: Leap Year](https://github.com/laulaulazza/Ruby-Practice/blob/master/leap_year.rb)
+[Github Repo: Table of Contents](https://github.com/laulaulazza/Ruby-Practice/blob/master/table_of_contents.rb)
+[Github Repo: Table of Contents (Updated)](https://github.com/laulaulazza/Ruby-Practice/blob/master/table_of_contents_new.rb)
