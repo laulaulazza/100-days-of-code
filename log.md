@@ -30,3 +30,17 @@
 [Github Repo: Leap Year](https://github.com/laulaulazza/Ruby-Practice/blob/master/leap_year.rb)
 [Github Repo: Table of Contents](https://github.com/laulaulazza/Ruby-Practice/blob/master/table_of_contents.rb)
 [Github Repo: Table of Contents (Updated)](https://github.com/laulaulazza/Ruby-Practice/blob/master/table_of_contents_new.rb)
+
+### Day 5: July 22, 2016
+
+**Today's Progress**: Some codecademy Javascript and some FreeCodeCamp Algorithms. 
+
+
+**Thoughts** Oh my goodness, how have 8 days gone by without coding? I've been struggling to think straight and concentrate without enough sleep, but can't believe how one day of rest turned into over a week!
+
+### Day 6: July 26, 2016
+
+**Today's Progress**: Loads of FreeCodeCamp Algorithm coding challenges. 
+
+
+**Thoughts** See my blog post: http://lauracodes.hickling.is/2016/07/26/100-days-of-code-day-5/
